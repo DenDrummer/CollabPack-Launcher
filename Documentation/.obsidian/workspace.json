@@ -11,12 +11,16 @@
             "id": "e21ba8cfdf6f0503",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Index"
             },
-            "group": "d87c917474b76496"
+            "group": "cb069979cfd48132"
           }
         ]
       },
@@ -37,18 +41,21 @@
             }
           },
           {
-            "id": "2924419a05f40a01",
+            "id": "5837ec023708d0a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Index"
             },
-            "group": "d87c917474b76496"
+            "group": "cb069979cfd48132"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,6 +204,25 @@
   },
   "active": "e21ba8cfdf6f0503",
   "lastOpenFiles": [
+    "Plans/Server/Configuration/User Groups/Banned Users.md",
+    "Plans/Server/Configuration/User Groups/Users.md",
+    "Plans/Server/Configuration/User Groups/Trusted Users.md",
+    "Plans/Server/Configuration/User Groups/Moderators.md",
+    "Plans/Server/Configuration/User Groups/Admins.md",
+    "Plans/Server/Configuration/Server Port.md",
+    "Plans/Server/Configuration/User Groups/User Groups.md",
+    "Plans/Server/Configuration/Configuration.md",
+    "Plans/Server/Server.md",
+    "Plans/Client/Client.md",
+    "Plans/Plans.md",
+    "Implemented/Implemented.md",
+    "Index.md",
+    "Plans/Server/Configuration/User Groups",
+    "Plans/Server/Configuration",
+    "Plans/Client",
+    "Plans/Server",
+    "Implemented",
+    "Plans",
     "Welcome.md"
   ]
 }

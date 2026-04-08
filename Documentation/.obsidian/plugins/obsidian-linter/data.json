@@ -1,7 +1,7 @@
 {
   "ruleConfigs": {
     "add-blank-line-after-yaml": {
-      "enabled": true
+      "enabled": false
     },
     "dedupe-yaml-array-values": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
-      "enabled": false,
-      "text-to-insert": "aliases: \ntags: "
+      "enabled": true,
+      "text-to-insert": "tags: "
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -53,7 +53,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "",
+      "yaml-key-priority-sort-order": "created\nmodified\ntags",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -188,19 +188,19 @@
       "tabsize": 4
     },
     "empty-line-around-blockquotes": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-code-fences": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-math-blocks": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-tables": {
-      "enabled": true
+      "enabled": false
     },
     "heading-blank-lines": {
       "enabled": false,
@@ -211,7 +211,7 @@
       "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
-      "enabled": true
+      "enabled": false
     },
     "paragraph-blank-lines": {
       "enabled": false
