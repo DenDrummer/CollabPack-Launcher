@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./Attachments",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "trashOption": "none"
+  "trashOption": "none",
+  "alwaysUpdateLinks": true
 }

@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08 - 15:48:31
-modified: 2026-04-08 - 16:06:36
+modified: 2026-04-08 - 18:59:49
 tags:
   - Index
 ---
@@ -37,4 +37,5 @@ useWikilinks: true
 <span class="fv-link-list-start" id="acee5fff-0e40-43f6-ace3-701bb073d336"></span>
 - [[Plans/Client/Client.md|Client]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Server.md|Server]] <span class="fv-link-list-item"></span>
+- [[Games|Games 1]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="acee5fff-0e40-43f6-ace3-701bb073d336"></span>

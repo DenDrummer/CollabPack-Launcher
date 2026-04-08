@@ -1,11 +1,12 @@
 ---
-created: 2026-04-08 - 15:49:30
-modified: 2026-04-08 - 19:04:15
+created: 2026-04-08 - 18:59:49
+modified: 2026-04-08 - 19:28:10
 tags:
   - Index
 ---
+A.k.a. the part that gets called by the client, also allowing for alternative clients or alternative servers, as long as they have sufficient compatibility.
 ```folder-overview
-id: c1c6eec7-1dce-4119-b667-bf12423db627
+id: 8f75c651-5a22-4c11-a831-eb91d2392378
 folderPath: ""
 title: "{{folderName}} overview"
 showTitle: true
@@ -33,7 +34,6 @@ titleSize: 2
 isInCallout: false
 useWikilinks: true
 ```
-<span class="fv-link-list-start" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
-- [[Plans/Server/API/API.md|API]] <span class="fv-link-list-item"></span>
-- [[Plans/Server/Configuration/Configuration.md|Configuration]] <span class="fv-link-list-item"></span>
-<span class="fv-link-list-end" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
+<span class="fv-link-list-start" id="8f75c651-5a22-4c11-a831-eb91d2392378"></span>
+- [[Plans/Server/API/Add Mod.md|Add Mod]] <span class="fv-link-list-item"></span>
+<span class="fv-link-list-end" id="8f75c651-5a22-4c11-a831-eb91d2392378"></span>

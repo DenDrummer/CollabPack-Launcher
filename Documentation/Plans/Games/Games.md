@@ -1,11 +1,11 @@
 ---
-created: 2026-04-08 - 15:49:30
-modified: 2026-04-08 - 19:04:15
+created: 2026-04-08 - 17:48:14
+modified: 2026-04-08 - 19:03:59
 tags:
   - Index
 ---
 ```folder-overview
-id: c1c6eec7-1dce-4119-b667-bf12423db627
+id: 83d24048-05c9-4609-92a9-b41492b0d52d
 folderPath: ""
 title: "{{folderName}} overview"
 showTitle: true
@@ -33,7 +33,8 @@ titleSize: 2
 isInCallout: false
 useWikilinks: true
 ```
-<span class="fv-link-list-start" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
-- [[Plans/Server/API/API.md|API]] <span class="fv-link-list-item"></span>
-- [[Plans/Server/Configuration/Configuration.md|Configuration]] <span class="fv-link-list-item"></span>
-<span class="fv-link-list-end" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
+<span class="fv-link-list-start" id="83d24048-05c9-4609-92a9-b41492b0d52d"></span>
+- [[Plans/Games/Minecraft.md|Minecraft]] <span class="fv-link-list-item"></span>
+<span class="fv-link-list-end" id="83d24048-05c9-4609-92a9-b41492b0d52d"></span>
+
+So far the only planned game to add support for is Minecraft using the CurseForge API, but other games and mod-download platforms (such as Modrinth) may be included down the line.

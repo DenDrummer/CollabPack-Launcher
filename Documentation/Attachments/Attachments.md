@@ -1,11 +1,11 @@
 ---
-created: 2026-04-08 - 15:49:30
-modified: 2026-04-08 - 19:04:15
+created: 2026-04-08 - 18:39:23
+modified: 2026-04-08 - 18:44:26
 tags:
   - Index
 ---
 ```folder-overview
-id: c1c6eec7-1dce-4119-b667-bf12423db627
+id: 1324a56f-76e6-45ba-b134-0df53bd955c4
 folderPath: ""
 title: "{{folderName}} overview"
 showTitle: true
@@ -33,7 +33,6 @@ titleSize: 2
 isInCallout: false
 useWikilinks: true
 ```
-<span class="fv-link-list-start" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
-- [[Plans/Server/API/API.md|API]] <span class="fv-link-list-item"></span>
-- [[Plans/Server/Configuration/Configuration.md|Configuration]] <span class="fv-link-list-item"></span>
-<span class="fv-link-list-end" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
+<span class="fv-link-list-start" id="1324a56f-76e6-45ba-b134-0df53bd955c4"></span>
+- [[Attachments/Insert Folder Overview.png|Insert Folder Overview]] <span class="fv-link-list-item"></span>
+<span class="fv-link-list-end" id="1324a56f-76e6-45ba-b134-0df53bd955c4"></span>
