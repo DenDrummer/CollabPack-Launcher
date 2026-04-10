@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08 - 18:59:49
-modified: 2026-04-08 - 19:28:10
+modified: 2026-04-10 - 21:13:48
 tags:
   - Index
 ---
@@ -36,4 +36,7 @@ useWikilinks: true
 ```
 <span class="fv-link-list-start" id="8f75c651-5a22-4c11-a831-eb91d2392378"></span>
 - [[Plans/Server/API/Add Mod.md|Add Mod]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/API/Get All Mods.md|Get All Mods]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/API/Remove Mod.md|Remove Mod]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/API/Update Mod.md|Update Mod]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="8f75c651-5a22-4c11-a831-eb91d2392378"></span>

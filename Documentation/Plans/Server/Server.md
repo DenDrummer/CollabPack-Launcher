@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08 - 15:49:30
-modified: 2026-04-08 - 19:04:15
+modified: 2026-04-10 - 21:44:40
 tags:
   - Index
 ---
@@ -36,4 +36,6 @@ useWikilinks: true
 <span class="fv-link-list-start" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
 - [[Plans/Server/API/API.md|API]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Configuration/Configuration.md|Configuration]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/Data storage/Data storage.md|Data storage]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/General server outlines.md|General server outlines]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>

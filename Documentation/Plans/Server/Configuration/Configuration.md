@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08 - 15:58:22
-modified: 2026-04-08 - 18:36:39
+modified: 2026-04-10 - 21:44:43
 tags:
   - Index
 ---
@@ -34,6 +34,8 @@ isInCallout: false
 useWikilinks: true
 ```
 <span class="fv-link-list-start" id="9c1dd29c-4f8a-4a2b-9026-aa6ae951083b"></span>
+- [[Plans/Server/Configuration/Automatic Game Server Updates/Automatic Game Server Updates.md|Automatic Game Server Updates]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/Configuration/Modifying the mod list/Modifying the mod list.md|Modifying the mod list]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Configuration/User Groups/User Groups.md|User Groups]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Configuration/Mod visibility.md|Mod visibility]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Configuration/Server Port.md|Server Port]] <span class="fv-link-list-item"></span>
