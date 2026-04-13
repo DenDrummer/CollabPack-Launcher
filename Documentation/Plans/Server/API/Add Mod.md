@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08 - 19:07:48
-modified: 2026-04-10 - 21:31:12
+modified: 2026-04-13 - 11:03:38
 tags: []
 ---
 ## Parameters
@@ -22,6 +22,8 @@ Valid states:
 - **OptionalClient** : only needed serverside, but may improve experience when also present clientside.
 - **Unknown** : when the person adding it isn't sure. The default value when not provided. Will always require manual review from someone with access rights to the CollabPack Server.
 ### Compatibility Level
+Essentially the compatibility of adding this to an existing world.
+
 Valid states:
 - **Full** : can be safely added without issues.
   Will require at least a patch update of the game-server for it to be added.
@@ -32,6 +34,8 @@ Valid states:
   Will require at least a major update of the game-server for it to be added.
 - **None** : adding these mods makes loading previous worlds impossible
 ### Safety of Removal
+Essentially the compatibility of removing this from an existing world.
+
 Valid states:
 - **Safe** : Can be safely removed without consequences.
   Will require at least a patch update to remove it again.
