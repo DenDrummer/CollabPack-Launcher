@@ -1,12 +1,12 @@
 ---
-created: 2026-04-13 - 11:10:25
-modified: 2026-04-13 - 11:12:48
-tags: []
+created: 2026-04-15
+modified: 2026-04-19
+tags:
+  - Index
+  - Terminology
 ---
-A list of all the currently installed/active collaborative modpacks
-
 ```folder-overview
-id: 38f84f34-48b3-4889-8cbf-04835f632359
+id: 42251bfd-a4a8-4c58-ae02-5b9c30983c15
 folderPath: ""
 title: "{{folderName}} overview"
 showTitle: true
@@ -34,5 +34,6 @@ titleSize: 2
 isInCallout: false
 useWikilinks: true
 ```
-<span class="fv-link-list-start" id="38f84f34-48b3-4889-8cbf-04835f632359"></span>
-<span class="fv-link-list-end" id="38f84f34-48b3-4889-8cbf-04835f632359"></span>
+<span class="fv-link-list-start" id="42251bfd-a4a8-4c58-ae02-5b9c30983c15"></span>
+- [[Terminology/Collab-Pack.md|Collab-Pack]] <span class="fv-link-list-item"></span>
+<span class="fv-link-list-end" id="42251bfd-a4a8-4c58-ae02-5b9c30983c15"></span>

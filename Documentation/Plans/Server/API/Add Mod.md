@@ -1,12 +1,15 @@
 ---
-created: 2026-04-08 - 19:07:48
-modified: 2026-04-13 - 11:03:38
-tags: []
+created: 2026-04-08
+modified: 2026-04-19
+tags:
+  - Plans/Server/API
 ---
 ## Parameters
 <sub>(may also require game-id and/or download source (CurseForge, Modrinth, …) if/once more games and/or download sources are added to the launcher)</sub>
 ### Username
 Or user-ID, depending on how this gets implemented.
+### Identification
+does not get stored, but required to verify the user.
 ### Mod-ID
 The ID of the mod on the download source.
 ### Mod-version

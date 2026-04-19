@@ -1,8 +1,9 @@
 ---
-created: 2026-04-10 - 21:22:11
-modified: 2026-04-11 - 14:21:38
+created: 2026-04-10
+modified: 2026-04-19
 tags:
   - Index
+  - Plans/Server/Configuration
 ---
 The CollabPack Launcher should eventually have the possibility to have multiple schedules set up for automatic modpack updates. For each schedule, there will be separate settings, but you can only have one schedule of each update frequency to avoid conflicts. It should also give a warning when trying to set up a more impactful [[Auto-update security|update category]] into a more frequent [[Auto-update frequency|update schedule]] than already existing schedules. A similar warning should be shown when trying to set a less impactful [[Auto-update security|update category]] into a less frequent [[Auto-update frequency|update schedule]] than already existing schedules.
 

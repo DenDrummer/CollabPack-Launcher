@@ -1,7 +1,8 @@
 ---
-created: 2026-04-10 - 21:09:03
-modified: 2026-04-10 - 21:11:47
-tags: []
+created: 2026-04-10
+modified: 2026-04-19
+tags:
+  - Plans/Server/API
 ---
 Gets a list off all the current mods in the modpack and their visibility status, so the launcher can install them
 ## Parameters

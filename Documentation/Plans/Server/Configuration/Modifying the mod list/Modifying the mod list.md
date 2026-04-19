@@ -1,8 +1,9 @@
 ---
-created: 2026-04-10 - 21:19:30
-modified: 2026-04-10 - 21:45:59
+created: 2026-04-10
+modified: 2026-04-19
 tags:
   - Index
+  - Plans/Server/Configuration
 ---
 ```folder-overview
 id: 6bbdfa92-e34b-4de5-a887-a2c0814a02aa

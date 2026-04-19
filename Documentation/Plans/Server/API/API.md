@@ -1,8 +1,9 @@
 ---
-created: 2026-04-08 - 18:59:49
-modified: 2026-04-11 - 17:55:16
+created: 2026-04-08
+modified: 2026-04-19
 tags:
   - Index
+  - Plans/Server/API
 ---
 A.k.a. the part that gets called by the client, also allowing for alternative clients or alternative servers, as long as they have sufficient compatibility.
 ```folder-overview

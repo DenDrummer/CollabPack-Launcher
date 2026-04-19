@@ -1,12 +1,13 @@
 ---
-created: 2026-04-08
+created: 2026-04-15
 modified: 2026-04-19
 tags:
-  - Attachments
   - Index
+  - Plans/Client
 ---
+one of the existing Collaborative Modpacks
 ```folder-overview
-id: 1324a56f-76e6-45ba-b134-0df53bd955c4
+id: 42dfea51-03d8-44a0-8ff2-099dd02b8855
 folderPath: ""
 title: "{{folderName}} overview"
 showTitle: true
@@ -34,6 +35,6 @@ titleSize: 2
 isInCallout: false
 useWikilinks: true
 ```
-<span class="fv-link-list-start" id="1324a56f-76e6-45ba-b134-0df53bd955c4"></span>
-- [[Attachments/Insert Folder Overview.png|Insert Folder Overview]] <span class="fv-link-list-item"></span>
-<span class="fv-link-list-end" id="1324a56f-76e6-45ba-b134-0df53bd955c4"></span>
+<span class="fv-link-list-start" id="42dfea51-03d8-44a0-8ff2-099dd02b8855"></span>
+- [[Plans/Client/Existing Collab-Pack/Mods.md|Mods]] <span class="fv-link-list-item"></span>
+<span class="fv-link-list-end" id="42dfea51-03d8-44a0-8ff2-099dd02b8855"></span>

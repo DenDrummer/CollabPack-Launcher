@@ -1,8 +1,11 @@
 ---
-created: 2026-04-08 - 15:58:22
-modified: 2026-04-13 - 11:15:54
+created: 2026-04-08
+modified: 2026-04-19
 tags:
   - Index
+  - Plans/Server/Configuration
+aliases:
+  - server configuration
 ---
 ```folder-overview
 id: 9c1dd29c-4f8a-4a2b-9026-aa6ae951083b

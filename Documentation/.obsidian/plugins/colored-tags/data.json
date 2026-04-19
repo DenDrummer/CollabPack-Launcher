@@ -10,7 +10,18 @@
     "highTextContrast": true
   },
   "knownTags": {
-    "index": 1
+    "attachments": 5,
+    "implemented": 4,
+    "index": 1,
+    "plans": 2,
+    "terminology": 3,
+    "plans/client": 1,
+    "plans/games": 2,
+    "plans/modsources": 3,
+    "plans/server": 4,
+    "plans/server/api": 1,
+    "plans/server/configuration": 2,
+    "plans/server/datastorage": 3
   },
   "tagColors": {},
   "_version": 4

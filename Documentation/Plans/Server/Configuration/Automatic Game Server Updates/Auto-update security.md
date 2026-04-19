@@ -1,7 +1,8 @@
 ---
-created: 2026-04-10 - 21:26:09
-modified: 2026-04-10 - 21:36:56
-tags: []
+created: 2026-04-10
+modified: 2026-04-19
+tags:
+  - Plans/Server/Configuration
 aliases:
   - update category
 ---

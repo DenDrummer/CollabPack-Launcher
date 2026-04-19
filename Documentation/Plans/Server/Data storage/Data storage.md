@@ -1,8 +1,9 @@
 ---
-created: 2026-04-10 - 21:29:12
-modified: 2026-04-10 - 21:31:00
+created: 2026-04-10
+modified: 2026-04-19
 tags:
   - Index
+  - Plans/Server/DataStorage
 ---
 The data being stored besides configuration.
 ```folder-overview
@@ -35,6 +36,7 @@ isInCallout: false
 useWikilinks: true
 ```
 <span class="fv-link-list-start" id="8aec666f-b0e3-412f-9df1-e36caf0d0cf7"></span>
-- [[Plans/Server/Data storage/Current mod list.md|Current mod list]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/Data storage/Current mod lists.md|Current mod lists]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Data storage/Queued mod list changes.md|Queued mod list changes]] <span class="fv-link-list-item"></span>
+- [[Plans/Server/Data storage/Users.md|Users]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="8aec666f-b0e3-412f-9df1-e36caf0d0cf7"></span>
