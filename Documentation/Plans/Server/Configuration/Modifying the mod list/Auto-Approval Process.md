@@ -1,6 +1,6 @@
 ---
 created: 2026-04-26
-modified: 2026-04-26
+last-opened: 2026-04-26
 tags:
   - Plans/Server
 ---

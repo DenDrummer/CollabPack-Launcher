@@ -1,6 +1,6 @@
 ---
 created: 2026-04-08
-modified: 2026-04-26
+last-opened: 2026-04-26
 tags:
   - Index
   - Plans/Server
@@ -38,6 +38,5 @@ useWikilinks: true
 - [[Plans/Server/API/API.md|API]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Configuration/Configuration.md|Configuration]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/Data storage/Data storage.md|Data storage]] <span class="fv-link-list-item"></span>
-- [[Plans/Server/Auto-Approval Process.md|Auto-Approval Process]] <span class="fv-link-list-item"></span>
 - [[Plans/Server/General server outlines.md|General server outlines]] <span class="fv-link-list-item"></span>
 <span class="fv-link-list-end" id="c1c6eec7-1dce-4119-b667-bf12423db627"></span>
